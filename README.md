@@ -36,7 +36,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/appuchia"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="appuchia" /></a></p><br><br>
 
-<h3 align="left">Snake:</h3>
-<img src="https://raw.githubusercontent.com/appuchias/appuchias/blob/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Snek:</h3>
+
+![snek](https://github.com/appuchias/appuchias/raw/output/snake.svg)
 
 ###
