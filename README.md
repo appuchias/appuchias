@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **appuchia@appu.ltd**
 
+- 🛠️ Find me too in (Gitlab)[https://gitlab.com/appuchia]
+
 - ⚡ Fun fact **My name doesn't come from The Simpsons**
 
 <h3 align="left">Languages and Tools:</h3>
