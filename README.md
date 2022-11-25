@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **appuchia@appu.ltd**
 
-- 🛠️ Find me too in [Gitlab](https://gitlab.com/appuchia)
+- 🛠️ My dotfiles live in [Gitlab](https://gitlab.com/appuchia-dotfiles)
 
 - ⚡ Fun fact **My name doesn't come from The Simpsons**
 
