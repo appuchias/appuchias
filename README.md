@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Appu</h1>
 <h3 align="center">A passionate student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=appuchias&label=Curious%20people&color=0e75b6&style=for-the-badge" alt="appuchias" /> <a href="https://twitter.com/appuchia" target="blank"><img src="https://img.shields.io/twitter/follow/appuchia?logo=twitter&style=for-the-badge" alt="appuchia" /></a></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=appuchias&label=Curious%20people&color=0e75b6&style=for-the-badge" alt="appuchias" /> <a href="https://twitter.com/appuchia" target="blank"><img src="https://img.shields.io/twitter/follow/appuchia?logo=twitter&style=for-the-badge" alt="appuchia" /></a></p> -->
 
 - 🌱 I’m currently studying **Data Science**
 
