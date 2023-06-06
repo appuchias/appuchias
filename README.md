@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **Data Science**
 
-- 👨‍💻 All of my live projects are available at [https://appu.ltd](https://appu.ltd)
+- 👨‍💻 All of my live projects are available at [appu.ltd](https://appu.ltd) (And it's [Open Source](https://github.com/appuchias/appuwrotethese)!)
 
 - 🛠️ My dotfiles live in [Gitlab](https://gitlab.com/appuchia-dotfiles)
 
