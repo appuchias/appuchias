@@ -9,9 +9,11 @@
 
 - ⚡ Fun fact **My name doesn't come from The Simpsons**
 
-![Appu's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&hide_border=false&username=appuchias&theme=dark)
+- 🪙 You can support me [here](https://coindrop.to/appuchia).
 
-<p><a href="https://ko-fi.com/appuchia"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="appuchia" /></a></p><br><br>
+<br>
+
+![Appu's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&hide_border=false&username=appuchias&theme=dark)
 
 ![snek](https://github.com/appuchias/appuchias/raw/output/snake.svg)
 
