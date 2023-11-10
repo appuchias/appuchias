@@ -13,7 +13,7 @@
 
 <br>
 
-![Appu's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&hide_border=false&username=appuchias&theme=dark)
+<!-- ![Appu's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&hide_border=false&username=appuchias&theme=dark) -->
 
 ![snek](https://github.com/appuchias/appuchias/raw/output/snake.svg)
 
