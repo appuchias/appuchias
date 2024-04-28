@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Appu</h1>
-<h3 align="center">A passionate student.</h3>
+<!-- <h3 align="center">A passionate student.</h3> -->
 
-- 🌱 I’m currently studying **Data Science**
+- 🌱 I’m currently studying **Data Science** (and Data Engineering)
 
 - 👨‍💻 All of my live projects are available at [appu.ltd](https://appu.ltd) (And it's [Open Source](https://github.com/appuchias/appuwrotethese)!)
 
 - 🛠️ My dotfiles live in [Gitlab](https://gitlab.com/appuchia-dotfiles)
 
-- ⚡ Fun fact **My name doesn't come from The Simpsons**
+- ⚡ **My name doesn't come from The Simpsons**
 
 - 🪙 You can support me [here](https://coindrop.to/appuchia).
 
@@ -17,4 +17,4 @@
 
 ![snek](https://github.com/appuchias/appuchias/raw/output/snake.svg)
 
-###
+---
