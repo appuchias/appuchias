@@ -1,10 +1,12 @@
 <h1 align="center">Buenas</h1>
 
-- 🌱 Estoy estudiando el Grado en Ciencia e Ingeniería de Datos
+- 🌱 Estudio el Grado en Ciencia e Ingeniería de Datos
 
-- 👨‍💻 Mis proyectos están en [appu.ltd](https://appu.ltd) (y es [abierto](https://github.com/appuchias/appuwrotethese)!)
+- 👨‍💻 Mis proyectos están en [appu.ltd](https://appu.ltd?utm_source=README) (y es [abierto](https://github.com/appuchias/appuwrotethese)!)
 
-- 🛠️ Mis dotfiles están en mi [Gitea](https://git.appu.ltd/appu/dotfiles) (lee [este post](https://blog.appu.ltd/posts/2025/02/dotfiles/) para más info!)
+- 📝 De vez en cuando escribo en [mi blog](https://blog.appu.ltd?utm_source=README).
+
+- 🛠️ Mis dotfiles están en mi [Gitea](https://git.appu.ltd/appu/dotfiles) (lee [este post](https://blog.appu.ltd/posts/2025/dotfiles?utm_source=README) para más info!)
 
 <br>
 
