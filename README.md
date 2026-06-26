@@ -1,12 +1,12 @@
 <h1 align="center">Buenas</h1>
 
-- 🌱 Estudio el Grado en Ciencia e Ingeniería de Datos
+- 🫪 Casi todos mis proyectos recientes están en mi [Fergejo](https://git.fernandezf.es/pfernandezf/)!
 
-- 👨‍💻 Mis proyectos están en [fernandezf.es](https://fernandezf.es?utm_source=README) (y es [abierto](https://github.com/appuchias/appuwrotethese)!)
+- 👨‍💻 Mis proyectos públicos están en [gas.fernandezf.es](https://gas.fernandezf.es?utm_source=README) (y es [abierto](https://git.fernandezf.es/pfernandezf/awt)!).
 
 - 📝 De vez en cuando escribo en [mi blog](https://blog.fernandezf.es?utm_source=README).
 
-- 🛠️ Mis dotfiles están en mi [Fergejo](https://git.fernandezf.es/pfernandezf/dotfiles) (lee [este post](https://blog.fernandezf.es/posts/2025/dotfiles/?utm_source=README) para más info!)
+- 🛠️ Mis dotfiles están también en mi [Fergejo](https://git.fernandezf.es/pfernandezf/dotfiles) (lee [este post](https://blog.fernandezf.es/posts/2025/dotfiles/?utm_source=README) para más info!).
 
 <br>
 
